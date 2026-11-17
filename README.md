@@ -101,7 +101,7 @@ sionna-rt/
 Clone the repository to your local computer using Git:
 
 ```bash
-git clone https://github.com/elifdiltemiz/sionna-rt
+git clone https://github.com/elifdiltemiz/MSsecurity
 ```
 
 Open the downloaded repository in **VS Code** or **JupyterLab**.
